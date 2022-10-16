@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on About Me</title>
+    <link>https://thatguyref.github.io/posts/</link>
+    <description>Recent content in Posts on About Me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Oct 2022 18:26:25 +0700</lastBuildDate><atom:link href="https://thatguyref.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All about me</title>
+      <link>https://thatguyref.github.io/posts/mypost/</link>
+      <pubDate>Sun, 16 Oct 2022 18:26:25 +0700</pubDate>
+      
+      <guid>https://thatguyref.github.io/posts/mypost/</guid>
+      <description>Hello, my name is Navarro Reffi Kamal but people also called me Reffi and im 19 years old, i&amp;rsquo;m graduated from Kartika X-1 Senior High School, reason why i choosed Informatics Technique major at Gunadarma University because i love computer things and i want to learn everything about computer, i dont have any basic at coding but i want to learn about all of that here at Gunadarma University. Well, i used Hugo to made this website, thats all from me, Thank You.</description>
+    </item>
+    
+  </channel>
+</rss>
